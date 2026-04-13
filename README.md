@@ -3,11 +3,11 @@
 </p>
 
 # 💫 About Me
-I am a passionate developer currently specializing in **React.js** to build interactive and high-performance web applications. My background spans from low-level systems programming to modern web and data science.
+I am a passionate developer currently specializing in **React.js** to build interactive and high-performance web applications.
 
-* 🔭 I’m currently working on enhancing my **React.js** ecosystem knowledge.
-* ⚡ Fun fact: I balance a multi-language stack like a pro (C++, Java, Python, and JS).
-* 📧 Reach out to me: **miltonneogia5@gmail.com**
+* 🔭 **Current Focus:** Deep diving into the React ecosystem.
+* ⚡ **Fun Fact:** I balance a multi-language stack like a pro (C++, Java, Python, and JS).
+* 📧 **Contact:** miltonneogia5@gmail.com
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -34,38 +34,26 @@ I am a passionate developer currently specializing in **React.js** to build inte
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧪 Data Science & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
 ---
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="Milton's Stats" width="45%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="45%" />
-</p>
+## 📊 GitHub Insights (Vertical Flow)
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="Milton's Stats" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com/?user=Milton-5&theme=merko&hide_border=false" alt="GitHub Streak" />
-</p>
+  <br/><br/>
 
-### 🏆 Achievements & Contributions
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Milton-5&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
-<details>
-<summary>📈 <b>View Top Contributions</b></summary>
-<br />
-<img src="https://github-contributor-stats.vercel.app/api?username=Milton-5&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</details>
-
 ---
 
-### ✍️ Wisdom for the Day
+### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
