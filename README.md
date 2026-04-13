@@ -35,6 +35,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Milton-5&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/Milton-5?theme=teal" alt="Milton-5's GitHub Contributions" />
-</p>
