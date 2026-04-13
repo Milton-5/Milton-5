@@ -35,13 +35,6 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=Milton-5&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Milton-5&theme=merko&hide_border=false)<br/>
-
-### My Contributions:
-<p align="left">
-  <img src="https://github-contributions.vercel.app/api/v1/Milton-5?theme=teal" width="100%" />
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api/v1/Milton-5?theme=teal" alt="Milton-5's GitHub Contributions" />
 </p>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Milton-5&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
