@@ -7,7 +7,7 @@ I am a passionate developer currently specializing in **React.js** to build inte
 
 * 🔭 **Current Focus:** Deep diving into the React ecosystem.
 * ⚡ **Fun Fact:** I balance a multi-language stack like a pro (C++, Java, Python, and JS).
-* 📧 **Contact:** miltonneogia5@gmail.com
+* 📧 **Contact:** miltonneogi5@gmail.com
 
 ## 🌐 Connect with Me
 <p align="left">
